@@ -1,0 +1,12 @@
+*.nds
+*.sav
+*.mpc
+*.bin
+*.npy
+*.png
+__pycache__/
+work/
+extracted/
+roms/
+shots/
+tests/
