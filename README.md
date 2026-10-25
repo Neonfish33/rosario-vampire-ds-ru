@@ -56,6 +56,7 @@ python tools/build_rom_v4.py          # -> roms/Rosario_RU_v4.nds
   компрессор обязан держать disp ≥ 2.
 
 Подробности — [docs/ENGINEERING.md](docs/ENGINEERING.md).
+Какие трудности пришлось преодолеть — [docs/CHALLENGES.md](docs/CHALLENGES.md).
 
 ## Благодарности
 

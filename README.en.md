@@ -27,6 +27,8 @@ tools/rosario.tbl   codec table (code <-> character)
 docs/ENGINEERING.md formats and reverse-engineering notes (RU)
 ```
 
+Challenges and reverse-engineering notes (RU): [docs/CHALLENGES.md](docs/CHALLENGES.md).
+
 ## Build
 
 Requirements: Python 3 (Pillow, ndspy) and the original English ROM placed as
